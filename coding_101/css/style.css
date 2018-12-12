@@ -1,0 +1,31 @@
+body {
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: #00FA9A;
+  display: inline-table;
+  font-family: helvetica; sans-serif;
+}
+
+h2 {
+  color: white;
+  font-weight: lighter;
+}
+
+li {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+  font-style: normal;
+  font-family: helvetica;
+  color: #00FA9A
+}
+
+#aboutme {
+  text-align: center;
+}
